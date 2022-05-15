@@ -1,6 +1,6 @@
 # Software Testing - Glossary
 
-Proiectul își propune să creeze un glosar de termeni pe care studenții întâmpină dificultăți să-l memoreze, prin urmare fiecare termen cu care se luptă va fi adăugat la acest proiect pe măsură ce cursul evoluează.
+Proiectul își propune să creeze un glosar de termeni pe care studenții întâmpină dificultăți să-l memoreze, prin urmare fiecare termen cu care au dificultăți va fi adăugat la acest proiect pe măsură ce cursul evoluează.
 
 
 ## General terms
